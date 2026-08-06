@@ -1,30 +1,45 @@
 # Hi there, I'm Manish Kumar 👋
 
-A passionate Developer with a strong foundation in backend technologies and Salesforce development.
+A Certified **Salesforce Administrator & MuleSoft Developer** with experience in CRM automation, Flow Builder, and scalable solutions. Skilled in C++, Python, SQL, and DevOps practices using Copado and AI tools.
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building solutions using **Python, C++, and SQL**.
-- ☁️ Experienced in **Salesforce Admin & Development**.
-- 🌱 Always eager to learn new technologies and improve my coding skills.
-- 💬 Ask me about **Python, Databases, or Salesforce workflows**.
+- 🎓 Pursuing B.Tech in Computer Science Engineering (RTU).
+- ☁️ **Salesforce & MuleSoft Specialist** with hands-on CRM project experience.
+- 🏆 **Agentforce Champion (2025, 2026)** & **200+ Trailhead Badges**.
+- 💼 Completed Internship as a Salesforce Admin Intern at **Raptbot Technologies**.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/manish-kumar-sf) 💼
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Certifications
+
+#### **Tech Stack:**
 <p align="left">
-  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <!-- Salesforce -->
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+#### **Certifications & Achievements:**
+- 📜 **MuleSoft Certified Developer - Level 1**
+- 📜 **Copado AI & Copado Fundamentals I MP Certified**
+- 📜 **ServiceNow University & Data Analyst Certified**
+- 🏅 **Agentforce Champion** (2025, 2026)
+- 🎖️ **200+ Trailhead Badges**
+
+---
+
+### 📂 Key Projects
+- **Bank Loan Management System:** Built using Salesforce & Flow Builder for automated loan applications and approvals.
+- **Hotel Management System:** Automated room bookings and customer records management.
+- **Policy Management System:** Automated policy creation and renewal processes.
+- **Image Search Portal:** Responsive web app with API integration.
 
 ---
 
